@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+
+    <ImageView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/question8"
+        android:scaleType="centerInside"
+        android:scaleY=".8"
+        android:src="@drawable/cup" />
+
+    <TextView
+        android:id="@+id/question7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:text="@string/question7"
+        android:textColor="#D50000"
+        android:textSize="20sp"
+        android:textStyle="bold|italic" />
+
+
+    <CheckBox
+        android:id="@+id/question7_choice1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="230dp"
+        android:background="@color/white"
+        android:text="@string/question7_choice1" />
+
+    <CheckBox
+        android:id="@+id/question7_choice2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="250dp"
+        android:layout_marginStart="250dp"
+        android:layout_marginTop="230dp"
+        android:background="@color/white"
+        android:text="@string/question7_choice2" />
+
+    <CheckBox
+        android:id="@+id/question7_choice3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="200dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="200dp"
+        android:background="@color/white"
+        android:text="@string/question7_choice3" />
+
+    <CheckBox
+        android:id="@+id/question7_choice4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="250dp"
+        android:layout_marginStart="250dp"
+        android:layout_marginTop="200dp"
+        android:background="@color/white"
+        android:text="@string/question7_choice4" />
+
+</FrameLayout>

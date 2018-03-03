@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Diabetes Quiz</string>
+
+
+    <string name="question1">1. Recent research suggests that which disorder may actually be a type of diabetes?</string>
+    <string name="question1_choice1">Asperger's</string>
+    <string name="question1_choice2">Parkinson's</string>
+    <string name="question1_choice3">Alzheimer's</string>
+
+    <string name="question2">2. In what year did Eli Lilly and Company begin commercial production of insulin?</string>
+
+    <string name="question3">3. Name two stars lives with diabetes</string>
+    <string name="question3_choice1">Nick Jonas</string>
+    <string name="question3_choice2">Keanu Reeves</string>
+    <string name="question3_choice3">Tom Hanks</string>
+    <string name="question3_choice4">Julia Roberts</string>
+
+    <string name="question4">4. With type 1 diabetes, the body does not produce insulin. True or false ?</string>
+
+    <string name="question5">5. Insulin is a natural hormone secreted by which organ or gland?</string>
+    <string name="question5_choice1">The liver</string>
+    <string name="question5_choice2">The pancreas</string>
+    <string name="question5_choice3">The kidneys</string>
+
+    <string name="question6">6. The Greeks believed diabetes was caused by snake bites. True or false ? </string>
+
+    <string name="question7">7.Type 2 diabetes can cause long-term damage in the ... ? </string>
+    <string name="question7_choice1">The bones</string>
+    <string name="question7_choice2">The heart</string>
+    <string name="question7_choice3">The kidneys</string>
+    <string name="question7_choice4">The eyes</string>
+
+    <string name="question8">8. What year was the insulin pump first introduced?</string>
+
+    <string name="question9">9. Which actor has been the face of diabetes awareness?</string>
+    <string name="question9_choice1">Salma Hayek</string>
+    <string name="question9_choice2">Wilford Brimley</string>
+
+    <string name="question10">10. Diabetes can be cured with diet, exercise, and medication. True or false ? </string>
+
+    <string name="submit_answers">Submit Answers</string>
+    <string name="swipe_and_type_the_answers">Swipe and type the answers</string>
+    <string name="see_how_much_you_know_about_what_do_you_really_know_about_diabetes_by_taking_this_quiz">See how much you know about what do you really know about diabetes by taking this quiz.</string>
+    <string name="click_on_the_heart_and_submit_the_answers">Click on the heart and submit the answers !</string>
+
+
+</resources>

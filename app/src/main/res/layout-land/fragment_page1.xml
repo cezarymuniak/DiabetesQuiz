@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+
+
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/swipe_and_type_the_answers"
+        android:scaleX=".8"
+        android:scaleY=".8"
+        android:src="@drawable/cloud" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginEnd="5dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="200dp"
+        android:text="@string/see_how_much_you_know_about_what_do_you_really_know_about_diabetes_by_taking_this_quiz"
+        android:textColor="#D50000"
+        android:textSize="20sp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="270dp"
+        android:text="@string/swipe_and_type_the_answers"
+        android:textColor="#FFCDD2"
+        android:textSize="15sp"
+        android:textStyle="bold|italic"
+
+        />
+</RelativeLayout>
+
