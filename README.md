@@ -14,7 +14,8 @@ These instructions will get you a copy of the project up and running on your loc
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-<iframe src='https://gfycat.com/ifr/InfantileUnsteadyElk' frameborder='0' scrolling='no' width='388' height='740' allowfullscreen></iframe>
+
+![](http://https://gfycat.com/ifr/InfantileUnsteadyElk.gif)
 
 ## Acknowledgments
 
