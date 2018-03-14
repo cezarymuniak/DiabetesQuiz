@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 
-![](http://https://gfycat.com/ifr/InfantileUnsteadyElk.gif)
+![](http://https://thumbs.gfycat.com/InfantileUnsteadyElk-size_restricted.gif)
 
 ## Acknowledgments
 
